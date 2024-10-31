@@ -1,4 +1,4 @@
-package org.example.Tarea1;
+package org.example.Tema2.Tarea1;
 
 import java.util.Random;
 
